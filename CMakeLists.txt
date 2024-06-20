@@ -3,4 +3,4 @@ project(structure_data_c C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(structure_data_c main.c)
+add_executable(structure_data_c main.c xxb/sxb.c)
