@@ -1,3 +1,11 @@
 # ninja log v5
 0	70	7405974774915562	CMakeFiles/structure_data_c.dir/main.c.obj	b4e326007508f4d9
 72	150	7405974775675492	structure_data_c.exe	5d33c839871ba07
+1	82	7405981619873911	CMakeFiles/structure_data_c.dir/main.c.obj	b4e326007508f4d9
+83	161	7405981620619791	structure_data_c.exe	5d33c839871ba07
+1	79	7405981795103191	CMakeFiles/structure_data_c.dir/main.c.obj	b4e326007508f4d9
+79	152	7405981795801832	structure_data_c.exe	5d33c839871ba07
+1	75	7405982065045605	CMakeFiles/structure_data_c.dir/main.c.obj	b4e326007508f4d9
+75	146	7405982065722993	structure_data_c.exe	5d33c839871ba07
+1	71	7405982760982426	CMakeFiles/structure_data_c.dir/main.c.obj	b4e326007508f4d9
+71	143	7405982761647705	structure_data_c.exe	5d33c839871ba07
